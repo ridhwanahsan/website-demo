@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+uxliner.com	TRUE	/	FALSE	1999999999	PHPSESSID	c2fac8c327f261c5f1dbd19caf47a1d1
+
